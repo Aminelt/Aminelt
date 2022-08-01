@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">I'm a junior data engineer | software developer who seeks out innovative solutions to everyday problems. I'm open to new opportunities and experiences.</h3>
 
-- 🌱 I’m currently learning **Spark , deep learning methods**
-
-- 👯 I’m looking to collaborate on **data engineering and software developement**
+<!-- - 🌱 I’m currently learning **Spark , deep learning methods**
+ -->
+- 👯 I’m looking to collaborate on **data engineering and software developement projects **
 
 - 👨‍💻 All of my projects are available at [Limbox.dev](Limbox.dev)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **laatfaamine1@gmail.com**
 
-- 📄 Know about my experiences [link/link/notion](link/link/notion)
+- 📄 Know about my experiences [limbox.dev/resume](limbox.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
