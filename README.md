@@ -5,9 +5,9 @@
  -->
 - 👯 I’m looking to collaborate on **data engineering and software developement projects **
 
-- 👨‍💻 All of my projects are available at [Limbox.dev](Limbox.dev)
+- 👨‍💻 All of my projects are available at [Limbox.dev/projects](Limbox.dev/projects)
 
-- 📝 I regularly write articles on [Limbox.dev](Limbox.dev)
+- 📝 I regularly write articles on [Limbox.dev/blog](Limbox.dev/blog)
 
 - 📫 How to reach me **laatfaamine1@gmail.com**
 
