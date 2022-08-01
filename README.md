@@ -3,7 +3,8 @@
  
 <!-- - 🌱 I’m currently learning *genrerative deep learning methods**
  -->
-- 🌱 I'm a passionate  computer science enthousiast who always seeks out innovative solutions to everyday problems. I'm open to new opportunities and experiences.
+  <h2>  I'm open to new opportunities and experiences </h2>
+- 🌱 I'm a passionate  computer science enthousiast who always seeks out innovative solutions to everyday problems.
 **
 - 👯 I’m looking to collaborate on **data engineering and software developement projects **
 
