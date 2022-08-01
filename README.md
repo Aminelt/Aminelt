@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">I'm a junior data engineer | software developer who seeks out innovative solutions to everyday problems. I'm open to new opportunities and experiences.</h3>
-
+<h3 align="center">I'm a junior data engineer | software developer 
+ 
 <!-- - 🌱 I’m currently learning *genrerative deep learning methods**
  -->
+- 🌱 I'm a passionate  computer science enthousiast who always seeks out innovative solutions to everyday problems. I'm open to new opportunities and experiences.</h3>
+**
 - 👯 I’m looking to collaborate on **data engineering and software developement projects **
 
 - 👨‍💻 All of my projects are available at [Limbox.dev/projects](Limbox.dev/projects)
