@@ -17,6 +17,11 @@
 
 - 📄 Know about my experiences [limbox.dev/resume](limbox.dev/resume)
 
+
+<h3 align="left">Skills and competencies  :</h3>
+
+ - <b>Programming languages  :</b>  Java - JavaScript - Python - C 
+
 <h3 align="left">Currently working on :</h3>
 
  - Mastering my skills to land into a Java Full Stack developer role.
