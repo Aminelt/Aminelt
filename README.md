@@ -25,7 +25,7 @@
  - <b> Database :</b> MySql - SQL SERVER - FIREBASE - MangoDb 
  - <b> DevOps :</b> GIT - CI/CD Pipelines - Jenkins.   
  - <b>Operating systems :</b> win10 - linux (Ubuntu - ARCH ).
- - <b>Big Data :</b> Spark - PySpark - Java 
+ - <b>Big Data :</b> Spark - PySpark - Hadoop
  - <b> Data Science :</b> Machine learning - Deep Learning.
  
 
