@@ -21,6 +21,13 @@
 <h3 align="left">Skills and competencies  :</h3>
 
  - <b>Programming languages  :</b>  Java - JavaScript - Python - C 
+ - <b>Web development Frameworks :</b>  Spring -Spring Boot- Spring Security - JUnit - Laravel - Angular - Bootsrap.
+ - <b> Database :</b> MySql - SQL SERVER - FIREBASE - MangoDb 
+ - <b> DevOps :</b> GIT - CI/CD Pipelines - Jenkins.   
+ - <b>Operating systems :</b> win10 - linux (Ubuntu - ARCH ).
+ - <b>Big Data :</b> Spark - PySpark - Java 
+ - <b> Data Science :</b> Machine learning - Deep Learning.
+ 
 
 <h3 align="left">Currently working on :</h3>
 
