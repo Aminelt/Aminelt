@@ -22,7 +22,7 @@
 
  - <b>Programming languages  :</b>  Java - JavaScript - Python - C 
  - <b>Web development Frameworks :</b>  Spring -Spring Boot- Spring Security - JUnit - Flask - Angular - Bootsrap.
- - <b> Database :</b> MySql - SQL SERVER - FIREBASE - MangoDb 
+ - <b> Database :</b> MySql - SQL SERVER - FIREBASE - MongoDb - Oracle 
  - <b> DevOps :</b> GIT - Gitlab CI/CD Pipelines - Jenkins.   
  - <b>Operating systems :</b> win10 - linux (Ubuntu - ARCH ).
  - Cloud : Google cloud platform 
