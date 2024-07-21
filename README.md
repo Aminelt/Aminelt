@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">Junior Software engineer </h3>
+<h3 align="center"> Software engineer </h3>
  
 <!-- - 🌱 I’m currently learning *genrerative deep learning methods**
  -->
