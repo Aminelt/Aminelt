@@ -21,17 +21,20 @@
 <h3 align="left">Skills and competencies  :</h3>
 
  - <b>Programming languages  :</b>  Java - JavaScript - Python - C 
- - <b>Web development Frameworks :</b>  Spring -Spring Boot- Spring Security - JUnit - Laravel - Angular - Bootsrap.
+ - <b>Web development Frameworks :</b>  Spring -Spring Boot- Spring Security - JUnit - Flask - Angular - Bootsrap.
  - <b> Database :</b> MySql - SQL SERVER - FIREBASE - MangoDb 
- - <b> DevOps :</b> GIT - CI/CD Pipelines - Jenkins.   
+ - <b> DevOps :</b> GIT - Gitlab CI/CD Pipelines - Jenkins.   
  - <b>Operating systems :</b> win10 - linux (Ubuntu - ARCH ).
+ - Cloud : Google cloud platform 
  - <b>Big Data :</b> Spark - PySpark - Hadoop
  - <b> Data Science :</b> Machine learning - Deep Learning.
  
 
 <h3 align="left">Currently working on :</h3>
 
- - Mastering my skills to land into a Java Full Stack developer role.
+ - Mastering my skills.
+   
+ - Currently, working as fullstack engineer using Python, Angular and GCP services.
 
  - Finishing my sides projects 
  
