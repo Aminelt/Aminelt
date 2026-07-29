@@ -34,7 +34,7 @@
 
  - Mastering my skills.
    
- - Currently, working as fullstack engineer using Python, Angular and GCP services.
+ - Currently, working as cloud data engineer.
 
  - Finishing my sides projects 
  
